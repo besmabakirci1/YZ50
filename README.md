@@ -1,4 +1,4 @@
-* **Understanding Neural Network and Backpropagation Algorithm**
+## **Understanding Neural Network and Backpropagation Algorithm**
 
   * *(English)*
 
