@@ -1,3 +1,5 @@
+https://yz50.ai
+
 ## **Understanding Neural Network and Backpropagation Algorithm**
 
   * *(English)*
@@ -104,4 +106,11 @@ Her veri noktası veya mini-batch için:
 - **Stanford CS231n** – *Convolutional Neural Networks for Visual Recognition*  
   Ders notları: http://cs231n.stanford.edu/  
   Video dersleri: https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv  
+----
 
+2. hafta öğrenilenler:
+- Chain rule (zincir kuralı) sezgisi
+- Computation graph: her işlem bir node, gradient çıktıdan girdiye doğru akar
+- Backward pass: her node kendi local derivative'ini üstten gelen gradient ile çarpar
+- Analitik gradient'in numerical derivative ile doğrulanması
+- PyTorch'taki autograd'ın çekirdeğinde de aynı mekanizmanın olduğu
